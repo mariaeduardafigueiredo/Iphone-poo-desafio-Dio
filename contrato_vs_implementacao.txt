@@ -1,0 +1,10 @@
+INTERFACE = CONTRATO
+CLASS = IMPLEMENTAÇÃO
+
+
+Contrato define o que uma classe deve implementar.
+
+
+Vamos supor que o meu contrato diz que a classe tem que implementar uma funcionalidade de tocar música. 
+Logo a minha classe obrigatóriamente precisa tocar música.
+Mas é a classe que vai dizer como ela vai tocar.
